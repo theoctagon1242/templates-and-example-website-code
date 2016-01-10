@@ -271,3 +271,10 @@ NYT- Snowfall
 ProPublica- News App and Data Style Guides
 *   [ProPublica- News App and Data Style Guides](https://github.com/propublica/guides)  
 *   [ProPublica- News App Model](https://github.com/propublica/newsappmodel) 
+
+## Disqus
+
+*   [Disqus Wordpress GitHub](https://github.com/disqus/disqus-wordpress)  
+*   [Disqus PHP GitHub](https://github.com/disqus/disqus-php)  
+*   [Disqus Python GitHub](https://github.com/disqus/disqus-python)  
+*   [Disqus Postgres GitHub](https://github.com/disqus/disqus-postgres)  
