@@ -1,14 +1,14 @@
 # Example Website Code
 
 Table of Contents
-*  [Python](#python) 
-*  [Ruby, Rails](#ruby-rails)
-*  [PHP](#php)
-*  [Node.js](#nodejs)
-*  [Jekyll](#jekyll)
-*  [Government Code and Style Guides](#government-code-and-style-guides)
-*  [Newspaper Code and Style Guides](#newspaper-code-and-style-guides)
-*  [Disqus](#disqus)
+- [Python](#python) 
+- [Ruby, Rails](#ruby-rails)
+- [PHP](#php)
+- [Node.js](#nodejs)
+- [Jekyll](#jekyll)
+- [Government Code and Style Guides](#government-code-and-style-guides)
+- [Newspaper Code and Style Guides](#newspaper-code-and-style-guides)
+- [Disqus](#disqus)
 
 ## Jekyll (based on Ruby)
 
