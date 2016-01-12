@@ -1,4 +1,4 @@
-# Example Website Code
+# Templates and Example Website Code
 
 Table of Contents
 - [Python](#python) 
