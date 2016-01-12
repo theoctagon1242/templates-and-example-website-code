@@ -39,6 +39,12 @@ https://github.com/heroku/heroku-django-template
 https://github.com/mozilla/sugardough
 https://github.com/heroku/dotnet-buildpack
 https://github.com/pinax/pinax
+https://github.com/twbs/bootstrap
+https://github.com/IronSummitMedia/startbootstrap
+https://github.com/iatek/bootstrap-zero
+https://github.com/simpleisbetterthancomplex/simple-django-skeleton
+https://github.com/jekyll/jekyll
+https://github.com/plusjade/jekyll-bootstrap
 
 Python- Django- Python and Django Official Websites and Code
 *   [Python Org](https://www.python.org), [Python Org GitHub](https://github.com/python/pythondotorg), [Python Org Docs](https://pythondotorg.readthedocs.org)
