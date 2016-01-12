@@ -32,6 +32,14 @@ Python- Django- Major Organizations and Projects that Use Django (in addition to
 *   [Reddit GitHub](https://github.com/reddit)  
 *   [StyleSeat GitHub](https://github.com/styleseat)  
 
+https://github.com/pybee/cookiecutter-project
+https://github.com/pydanny/cookiecutter-django
+https://github.com/pinax/symposion
+https://github.com/heroku/heroku-django-template
+https://github.com/mozilla/sugardough
+https://github.com/heroku/dotnet-buildpack
+https://github.com/pinax/pinax
+
 Python- Django- Python and Django Official Websites and Code
 *   [Python Org](https://www.python.org), [Python Org GitHub](https://github.com/python/pythondotorg), [Python Org Docs](https://pythondotorg.readthedocs.org)
 *   [Django Project](https://www.djangoproject.com) and [Django Project GitHub](https://github.com/django/djangoproject.com)  
