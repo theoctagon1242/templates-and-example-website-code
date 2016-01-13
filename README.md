@@ -26,10 +26,6 @@ https://github.com/simpleisbetterthancomplex/simple-django-skeleton
 https://github.com/heroku/heroku-django-template
 https://github.com/heroku/dotnet-buildpack
 
-https://github.com/twbs/bootstrap
-https://github.com/IronSummitMedia/startbootstrap
-https://github.com/iatek/bootstrap-zero
-
 Python- Django- Pinax
 *   [Pinax](http://pinaxproject.com)  
 *   [Pinax GitHub](https://github.com/pinax)  
@@ -65,17 +61,6 @@ Python- Django- Python Product Websites
 
 Django Girls (Python- Django)
 *   [Django Girls](http://djangogirls.org) and [Django Girls GitHub](https://github.com/DjangoGirls/djangogirls)  
-*   [Django Girls Blog](http://blog.djangogirls.org)
-*   [Django Girls Tutorial GitHub](https://github.com/DjangoGirls/tutorial) and [Django Girls Tutorial](http://tutorial.djangogirls.org)  
-*   [Django Girls Tutorial Deploy](http://tutorial.djangogirls.org/en/deploy/README.html)  
-*   [Django Girls Tutorial Extensions](http://djangogirls.gitbooks.io/django-girls-tutorial-extensions/content/optional_postgresql_installation/README.html)  
-*   [Django Girls Translation Guide GitHub](https://github.com/DjangoGirls/translation-guide) 
-*   [Django Girls Organize](http://organize.djangogirls.org)  
-*   [Django Girls Coach](http://coach.djangogirls.org)  
-*   [Django Girls Resources](https://github.com/DjangoGirls/resources)  
-
-Django Carrots (Python- Django)
-*   [Django Carrots Tutorial GitHub](https://github.com/ggcarrots/django-carrots)
 
 Bootcamp (Python- Django)
 *   [Bootcamp GitHub](https://github.com/vitorfs/bootcamp)  
