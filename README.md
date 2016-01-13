@@ -22,8 +22,8 @@ Jekyll Themes
 
 ## Python
 
-https://github.com/heroku/heroku-django-template
-https://github.com/heroku/dotnet-buildpack
+Python- Django- Heroku Deployment
+*   [Heroku Django Template GitHub](https://github.com/heroku/heroku-django-template)
 
 Python- Django- Pinax
 *   [Pinax](http://pinaxproject.com)  
@@ -168,7 +168,11 @@ Python- Django- Templates
 
 ## ASP
 
-ASP.NET Boilerplate
+ASP.Net- Heroku Deployment
+*   [Heroku ASP.NET Buildpack GitHub](https://github.com/heroku/dotnet-buildpack)
+*   [Vadim Abdrashitov's Heroku ASP.NET 5 Buildpack GitHub](https://github.com/jincod/dotnet-buildpack)
+
+ASP.NET- Boilerplate
 *   [ASP.NET Boilerplate](http://www.aspnetboilerplate.com), [ASP.NET Boilerplate Docs](http://aspnetboilerplate.com/Pages/Documents), and [ASP.NET Boilerplate GitHub](https://github.com/aspnetboilerplate/aspnetboilerplate)
 *   [ASP.NET Boilerplate Module Zero GitHub](https://github.com/aspnetboilerplate/module-zero)
 *   [ASP.NET Boilerplate Templates GitHub](https://github.com/aspnetboilerplate/aspnetboilerplate-templates)
@@ -176,7 +180,7 @@ ASP.NET Boilerplate
 *   [ASP.NET Boilerplate Questions/Answers GitHub](https://github.com/aspnetboilerplate/questions-answers)
 *   [ASP.NET Boilerplate Event Cloud GitHub](https://github.com/aspnetboilerplate/eventcloud)
 
-ASP.NET Example Websits
+ASP.NET- Example Websits
 *   [Parts Unlimited GitHub](https://github.com/Microsoft/PartsUnlimited) and [Parts Unlimited MRP GitHub](https://github.com/Microsoft/PartsUnlimitedMRP)
 
 ## Ruby, Rails
