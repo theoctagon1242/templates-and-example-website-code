@@ -31,12 +31,12 @@ Python- Django- Pinax
 *   [Pinax Django User Accounts GitHub](https://github.com/pinax/django-user-accounts)  
 *   [Pinax Project Account GitHub](https://github.com/pinax/pinax-project-account) 
 *   [Pinax Theme Bootstrap GitHub](https://github.com/pinax/pinax-theme-bootstrap) 
-*   [Pinax Symposion](https://github.com/pinax/symposion)  
+*   [Pinax Symposion GitHub](https://github.com/pinax/symposion)  
 
 Python- Django- Cookiecutter (See also Packages)
 *   [Cookiecutter (List of All Cookie Cutters in README) GitHub](https://github.com/audreyr/cookiecutter)
 *   [Cookiecutter Django GitHub](https://github.com/pydanny/cookiecutter-django )
-*   [PyBee Cookiecutter Project](https://github.com/pybee/cookiecutter-project)
+*   [PyBee Cookiecutter Project GitHub](https://github.com/pybee/cookiecutter-project)
 
 Python- Django- Python and Django Official Websites and Code
 *   [Python Org](https://www.python.org), [Python Org GitHub](https://github.com/python/pythondotorg), [Python Org Docs](https://pythondotorg.readthedocs.org)
@@ -162,7 +162,7 @@ Miscellaneous (Python)
 *   [Zope Web App Server Github](https://github.com/zopefoundation/Zope)  
 
 Python- Django- Templates
-*   [Django + HTML5B + Bootstrap](https://github.com/xenith/django-base-template)  
+*   [Django + HTML5B + Bootstrap GitHub](https://github.com/xenith/django-base-template)  
 
 ## Ruby, Rails
 
