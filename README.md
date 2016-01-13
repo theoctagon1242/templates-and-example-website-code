@@ -13,7 +13,8 @@ Table of Contents
 ## Jekyll (based on Ruby)
 
 Jekyll Bootstrap
-*   [Jekyll Bootstrap GitHub](https://github.com/plusjade/jekyll-bootstrap)
+*   [Jekyll Bootstrap GitHub](https://github.com/plusjade/jekyll-bootstrap) and [Jekyll Bootstrap Website (Clone repo) (Example Website) GitHub](https://github.com/plusjade/jekyllbootstrap.com)  
+*   [Jekyll Sitemap GitHub](https://github.com/jekyll/jekyll-sitemap)
 
 Jekyll Themes
 *   [Jekyll Themes](http://jekyllthemes.org) and [Jekyll Themes GitHub](https://github.com/mattvh/jekyllthemes)
@@ -180,6 +181,12 @@ Stanford University Library
 
 ## PHP 
 
+PHP- Wordpress- Popular Themes
+*   [Bones GitHub](https://github.com/eddiemachado/bones)  
+*   [Roots GitHub](https://github.com/roots/roots)  
+*   [Underscore or _S GitHub](https://github.com/Automattic/_s)  
+
+Other
 *   [Facebook Platform (deprecated) GitHub](https://github.com/facebookarchive/platform)  
 *   [Facebook Ad Manager (deprecated) GitHub](https://github.com/facebookarchive/powereditor)  
 *   [Facebook IE Toolbar (deprecated) GitHub](https://github.com/facebookarchive/ie-toolbar)  
