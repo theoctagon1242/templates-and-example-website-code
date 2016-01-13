@@ -181,6 +181,9 @@ ASP.NET Example Websits
 
 ## Ruby, Rails
 
+Ruby on Rails
+*   [Ruby on Rails](http://rubyonrails.org) 
+
 *   [Crowdtilt GitHub](https://github.com/Crowdtilt/CrowdtiltOpen)  
 *   [Crowdtilt Balanced Payments GitHub](https://github.com/Crowdtilt/Business-BalancedPayments)  
 
@@ -195,7 +198,13 @@ Stanford University Library
 
 ## PHP 
 
+PHP- Laravel- Preferred Templates and Documents
+*   [Laravel 4 Starter Kit GitHub](https://github.com/brunogaspar/laravel4-starter-kit)  
+*   [Laravel 4 Bootstrap Starter Site GitHub](https://github.com/andrewelkins/Laravel-4-Bootstrap-Starter-Site)  
+*   [Laravel 4 Generators GitHub](https://github.com/JeffreyWay/Laravel-4-Generators) 
+
 PHP- Wordpress- Popular Themes
+*   [WordPress MTV Github](https://github.com/newsapps/wordpress-mtv) 
 *   [Bones GitHub](https://github.com/eddiemachado/bones)  
 *   [Roots GitHub](https://github.com/roots/roots)  
 *   [Underscore or _S GitHub](https://github.com/Automattic/_s)  
