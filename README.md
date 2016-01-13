@@ -20,9 +20,6 @@ Jekyll Themes
 
 ## Python
 
-https://github.com/pybee/cookiecutter-project
-https://github.com/simpleisbetterthancomplex/simple-django-skeleton
-
 https://github.com/heroku/heroku-django-template
 https://github.com/heroku/dotnet-buildpack
 
@@ -37,8 +34,9 @@ Python- Django- Pinax
 *   [Pinax Symposion](https://github.com/pinax/symposion)  
 
 Python- Django- Cookiecutter (See also Packages)
-*   [Cookie Cutter (List of All Cookie Cutters in README) GitHub](https://github.com/audreyr/cookiecutter)
+*   [Cookiecutter (List of All Cookie Cutters in README) GitHub](https://github.com/audreyr/cookiecutter)
 *   [Cookiecutter Django GitHub](https://github.com/pydanny/cookiecutter-django )
+*   [PyBee Cookiecutter Project](https://github.com/pybee/cookiecutter-project)
 
 Python- Django- Python and Django Official Websites and Code
 *   [Python Org](https://www.python.org), [Python Org GitHub](https://github.com/python/pythondotorg), [Python Org Docs](https://pythondotorg.readthedocs.org)
@@ -62,7 +60,8 @@ Python- Django- Python Product Websites
 Django Girls (Python- Django)
 *   [Django Girls](http://djangogirls.org) and [Django Girls GitHub](https://github.com/DjangoGirls/djangogirls)  
 
-Bootcamp (Python- Django)
+Vitor Freitas (Python- Django)
+*   [Simple Django Skeleton (Simple is Better than Complex) GitHub](https://github.com/simpleisbetterthancomplex/simple-django-skeleton)
 *   [Bootcamp GitHub](https://github.com/vitorfs/bootcamp)  
 *   [Parsifal GitHub](https://github.com/vitorfs/parsifal)  
 *   [Woid GitHub](https://github.com/vitorfs/woid)
