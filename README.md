@@ -12,39 +12,37 @@ Table of Contents
 
 ## Jekyll (based on Ruby)
 
+Jekyll Bootstrap
+*   [Jekyll Bootstrap GitHub](https://github.com/plusjade/jekyll-bootstrap)
+
+Jekyll Themes
 *   [Jekyll Themes](http://jekyllthemes.org) and [Jekyll Themes GitHub](https://github.com/mattvh/jekyllthemes)
 
 ## Python
 
-*   [Django Sites](https://www.djangosites.org/with-source)  
-*   [Lawrence Journal World](http://en.wikipedia.org/wiki/Lawrence_Journal-World)  
-*   [KU Sports](http://www2.kusports.com)  
-
-Python- Django- Major Organizations and Projects that Use Django (in addition to below)
-*   [18F GitHub](https://github.com/18F)  
-*   [Instagram GitHub](https://github.com/instagram)  
-*   [Knight Foundation](http://www.knightfoundation.org/apps)  
-*   [National Geographic GitHub](https://github.com/natgeo)  
-*   [Northwestern University Knight Lab GitHub](https://github.com/NUKnightLab)
-*   [PBS GitHub](https://github.com/pbs)  
-*   [Pinterest GitHub](https://github.com/pinterest)  
-*   [Rdio GitHub](https://github.com/rdio)  
-*   [Reddit GitHub](https://github.com/reddit)  
-*   [StyleSeat GitHub](https://github.com/styleseat)  
-
 https://github.com/pybee/cookiecutter-project
-https://github.com/pydanny/cookiecutter-django
-https://github.com/pinax/symposion
+https://github.com/simpleisbetterthancomplex/simple-django-skeleton
+
 https://github.com/heroku/heroku-django-template
-https://github.com/mozilla/sugardough
 https://github.com/heroku/dotnet-buildpack
-https://github.com/pinax/pinax
+
 https://github.com/twbs/bootstrap
 https://github.com/IronSummitMedia/startbootstrap
 https://github.com/iatek/bootstrap-zero
-https://github.com/simpleisbetterthancomplex/simple-django-skeleton
-https://github.com/jekyll/jekyll
-https://github.com/plusjade/jekyll-bootstrap
+
+Python- Django- Pinax
+*   [Pinax](http://pinaxproject.com)  
+*   [Pinax GitHub](https://github.com/pinax)  
+*   [Pinax Starter Projects GitHub](https://github.com/pinax/pinax-starter-projects)  
+*   [Pinax Starter App (setup.py) GitHub](https://github.com/pinax/pinax-starter-app)  
+*   [Pinax Django User Accounts GitHub](https://github.com/pinax/django-user-accounts)  
+*   [Pinax Project Account GitHub](https://github.com/pinax/pinax-project-account) 
+*   [Pinax Theme Bootstrap GitHub](https://github.com/pinax/pinax-theme-bootstrap) 
+*   [Pinax Symposion](https://github.com/pinax/symposion)  
+
+Python- Django- Cookiecutter (See also Packages)
+*   [Cookie Cutter (List of All Cookie Cutters in README) GitHub](https://github.com/audreyr/cookiecutter)
+*   [Cookiecutter Django GitHub](https://github.com/pydanny/cookiecutter-django )
 
 Python- Django- Python and Django Official Websites and Code
 *   [Python Org](https://www.python.org), [Python Org GitHub](https://github.com/python/pythondotorg), [Python Org Docs](https://pythondotorg.readthedocs.org)
