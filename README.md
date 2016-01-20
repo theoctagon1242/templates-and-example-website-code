@@ -49,6 +49,7 @@ Python- Django- PyCon, DjangoCon, and PyData
 *   [DjangoCon U.S. 2016 GitHub](https://github.com/djangocon/2016.djangocon.us)
 *   [DjangoCon Europe 2015 GitHub](https://github.com/djangocon/2015.djangocon.us)
 *   [PyData 2015 GitHub](https://github.com/pydata/conf_site)
+*   [DjangoCon Website Archive GitHub](https://github.com/djangocon/djangocon-backups)
 
 Python- Django- Django Product Websites
 *   [Django Sites GitHub](https://github.com/rossp/djangosites.org)
