@@ -1,7 +1,7 @@
 # Templates and Example Website Code
 
 Table of Contents
-- [Government Code and Style Guides](#government-code-and-style-guides)
+- [Gov](#gov)
 - [Jekyll](#jekyll)
 - [Python](#python) 
 - [ASP](#asp) 
